@@ -24,7 +24,8 @@ if ($panda > $shifat) {
 echo "<br>";
 
 //Marks Calculator
-$marks = 70;
+
+$marks = 90;
 
 if ($marks >=80 && $marks <= 100) {
     echo "A+";
