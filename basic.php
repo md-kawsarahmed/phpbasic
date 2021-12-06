@@ -21,6 +21,8 @@ if ($panda > $shifat) {
     echo "Shifat Older";
 }
 
+echo "<br>";
+
 //Marks Calculator
 $marks = 70;
 
